@@ -26,3 +26,20 @@ Deploy and configure Azure monitoring for a Windows virtual machine.
 ## Technologies
 
 Azure Monitor · Log Analytics · KQL · ARM Templates · Azure Virtual Machines · Azure Alerts
+
+## Screenshots
+
+### Activity Log Alert
+![Alert rule](01-alert-rule.png)
+
+### Action Group
+![Action group](02-action-group.png)
+
+### Fired Alerts
+![Fired alerts](03-fired-alerts.png)
+
+### Email Notification
+![Email notification](04-email-notification.png)
+
+### Alert Processing Rule
+![Processing rule](05-processing-rule.png)
